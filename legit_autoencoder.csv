@@ -1,0 +1,417 @@
+event_type,proc_bin,proc_args,proc_uid,parent_bin,proc_flags
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,[kworker/0:1H-kblockd],none,0,[kthreadd],procFS
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,9,--deserialize 35 --log-level info --log-target journal-or-kmsg,0,systemd,execve rootcwd clone
+0,sa1,/usr/lib/sysstat/sa1 1 1,0,9,execve rootcwd
+0,sadc,-F -L -S DISK 1 1 /var/log/sysstat,0,sa1,execve
+1,sadc,-F -L -S DISK 1 1 /var/log/sysstat,0,sa1,execve
+1,systemd,splash,0,systemd,execve
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,[kthreadd],none,0,[kthreadd],execve
+1,[kthreadd],none,0,[kthreadd],execve
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,sh,"-c ""command -v debian-sa1 > /dev/null && debian-sa1 1 1""",0,cron,execve clone
+0,debian-sa1,/usr/lib/sysstat/debian-sa1 1 1,0,sh,execve clone
+1,debian-sa1,/usr/lib/sysstat/debian-sa1 1 1,0,sh,execve clone
+1,sh,"-c ""command -v debian-sa1 > /dev/null && debian-sa1 1 1""",0,cron,execve clone
+1,cron,-f -P,0,cron,execve
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,[kthreadd],none,0,[kthreadd],execve
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,9,--deserialize 35 --log-level info --log-target journal-or-kmsg,0,systemd,execve rootcwd clone
+0,sa1,/usr/lib/sysstat/sa1 1 1,0,9,execve rootcwd
+0,sadc,-F -L -S DISK 1 1 /var/log/sysstat,0,sa1,execve
+1,sadc,-F -L -S DISK 1 1 /var/log/sysstat,0,sa1,execve
+1,systemd,splash,0,systemd,execve
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,sh,"-c ""command -v debian-sa1 > /dev/null && debian-sa1 1 1""",0,cron,execve clone
+0,debian-sa1,/usr/lib/sysstat/debian-sa1 1 1,0,sh,execve clone
+1,debian-sa1,/usr/lib/sysstat/debian-sa1 1 1,0,sh,execve clone
+1,sh,"-c ""command -v debian-sa1 > /dev/null && debian-sa1 1 1""",0,cron,execve clone
+1,cron,-f -P,0,cron,execve
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,[kthreadd],none,0,[kthreadd],execve
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,[kthreadd],none,0,[kthreadd],execve
+1,[kthreadd],none,0,[kthreadd],execve
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,gjs,/usr/share/gnome-shell/extensions/ding@rastersoft.com/app/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com/app,1000,ding.js,execve
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,9,--deserialize 36 --log-level info --log-target journal-or-kmsg,0,systemd,execve rootcwd clone
+0,gdm-session-worker,none,0,gdm-session-worker,execve rootcwd clone
+0,fprintd,none,0,9,execve rootcwd
+1,gdm-session-worker,none,0,gdm-session-worker,execve
+1,gdm-session-worker,none,0,gdm-session-worker,execve rootcwd clone
+1,systemd,splash,0,systemd,execve
+1,systemd,splash,0,systemd,execve
+0,ding.js,gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/app/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com/app,1000,gnome-shell,execve clone
+0,gjs,/usr/share/gnome-shell/extensions/ding@rastersoft.com/app/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com/app,1000,ding.js,execve
+0,nautilus,--version,1000,gjs,execve clone
+1,nautilus,--version,1000,gjs,execve clone
+0,Default,/etc/gdm3/PrimeOff/Default,0,gdm-session-worker,execve rootcwd clone
+1,Default,/etc/gdm3/PrimeOff/Default,0,gdm-session-worker,execve rootcwd clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,sh,"-c ""cd / && run-parts --report /etc/cron.hourly""",0,cron,execve clone
+0,run-parts,--report /etc/cron.hourly,0,sh,execve rootcwd clone
+1,run-parts,--report /etc/cron.hourly,0,sh,execve rootcwd clone
+1,sh,"-c ""cd / && run-parts --report /etc/cron.hourly""",0,cron,execve clone
+1,cron,-f -P,0,cron,execve
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,fprintd,none,0,9,execve rootcwd
+1,systemd,splash,0,systemd,execve
+1,systemd,splash,0,systemd,execve
+1,systemd,splash,0,systemd,execve
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,9,--deserialize 35 --log-level info --log-target journal-or-kmsg,0,systemd,execve rootcwd clone
+0,sa1,/usr/lib/sysstat/sa1 1 1,0,9,execve rootcwd
+0,sadc,-F -L -S DISK 1 1 /var/log/sysstat,0,sa1,execve
+1,sadc,-F -L -S DISK 1 1 /var/log/sysstat,0,sa1,execve
+1,systemd,splash,0,systemd,execve
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,gjs,/usr/share/gnome-shell/extensions/ding@rastersoft.com/app/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com/app,1000,ding.js,execve
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,[kthreadd],none,0,[kthreadd],execve
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,[kthreadd],none,0,[kthreadd],execve
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,sh,"-c ""command -v debian-sa1 > /dev/null && debian-sa1 1 1""",0,cron,execve clone
+0,debian-sa1,/usr/lib/sysstat/debian-sa1 1 1,0,sh,execve clone
+1,debian-sa1,/usr/lib/sysstat/debian-sa1 1 1,0,sh,execve clone
+1,sh,"-c ""command -v debian-sa1 > /dev/null && debian-sa1 1 1""",0,cron,execve clone
+1,cron,-f -P,0,cron,execve
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,python3,legit.py,1000,bash,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,[kthreadd],none,0,[kthreadd],execve
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,9,--deserialize 36 --log-level info --log-target journal-or-kmsg,0,systemd,execve rootcwd clone
+0,gdm-session-worker,none,0,gdm-session-worker,execve rootcwd clone
+0,fprintd,none,0,9,execve rootcwd
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+1,gdm-session-worker,none,0,gdm-session-worker,execve
+1,gdm-session-worker,none,0,gdm-session-worker,execve rootcwd clone
+1,systemd,splash,0,systemd,execve
+1,systemd,splash,0,systemd,execve
+0,ding.js,gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/app/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com/app,1000,gnome-shell,execve clone
+0,gjs,/usr/share/gnome-shell/extensions/ding@rastersoft.com/app/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com/app,1000,ding.js,execve
+0,nautilus,--version,1000,gjs,execve clone
+1,nautilus,--version,1000,gjs,execve clone
+0,Default,/etc/gdm3/PrimeOff/Default,0,gdm-session-worker,execve rootcwd clone
+1,Default,/etc/gdm3/PrimeOff/Default,0,gdm-session-worker,execve rootcwd clone
+1,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone
+0,tracker-extract-3,--socket-fd 3,1000,tracker-miner-fs-3,execve clone

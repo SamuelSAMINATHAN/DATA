@@ -1,0 +1,3343 @@
+{
+  "metadata": {
+    "total_records": 416,
+    "columns": [
+      "event_type",
+      "proc_bin",
+      "proc_args",
+      "proc_uid",
+      "parent_bin",
+      "proc_flags"
+    ]
+  },
+  "data": [
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "[kworker/0:1H-kblockd]",
+      "proc_args": "none",
+      "proc_uid": 0,
+      "parent_bin": "[kthreadd]",
+      "proc_flags": "procFS"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "9",
+      "proc_args": "--deserialize 35 --log-level info --log-target journal-or-kmsg",
+      "proc_uid": 0,
+      "parent_bin": "systemd",
+      "proc_flags": "execve rootcwd clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "sa1",
+      "proc_args": "/usr/lib/sysstat/sa1 1 1",
+      "proc_uid": 0,
+      "parent_bin": "9",
+      "proc_flags": "execve rootcwd"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "sadc",
+      "proc_args": "-F -L -S DISK 1 1 /var/log/sysstat",
+      "proc_uid": 0,
+      "parent_bin": "sa1",
+      "proc_flags": "execve"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "sadc",
+      "proc_args": "-F -L -S DISK 1 1 /var/log/sysstat",
+      "proc_uid": 0,
+      "parent_bin": "sa1",
+      "proc_flags": "execve"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "systemd",
+      "proc_args": "splash",
+      "proc_uid": 0,
+      "parent_bin": "systemd",
+      "proc_flags": "execve"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "[kthreadd]",
+      "proc_args": "none",
+      "proc_uid": 0,
+      "parent_bin": "[kthreadd]",
+      "proc_flags": "execve"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "[kthreadd]",
+      "proc_args": "none",
+      "proc_uid": 0,
+      "parent_bin": "[kthreadd]",
+      "proc_flags": "execve"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "sh",
+      "proc_args": "-c \"command -v debian-sa1 > /dev/null && debian-sa1 1 1\"",
+      "proc_uid": 0,
+      "parent_bin": "cron",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "debian-sa1",
+      "proc_args": "/usr/lib/sysstat/debian-sa1 1 1",
+      "proc_uid": 0,
+      "parent_bin": "sh",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "debian-sa1",
+      "proc_args": "/usr/lib/sysstat/debian-sa1 1 1",
+      "proc_uid": 0,
+      "parent_bin": "sh",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "sh",
+      "proc_args": "-c \"command -v debian-sa1 > /dev/null && debian-sa1 1 1\"",
+      "proc_uid": 0,
+      "parent_bin": "cron",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "cron",
+      "proc_args": "-f -P",
+      "proc_uid": 0,
+      "parent_bin": "cron",
+      "proc_flags": "execve"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "[kthreadd]",
+      "proc_args": "none",
+      "proc_uid": 0,
+      "parent_bin": "[kthreadd]",
+      "proc_flags": "execve"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "9",
+      "proc_args": "--deserialize 35 --log-level info --log-target journal-or-kmsg",
+      "proc_uid": 0,
+      "parent_bin": "systemd",
+      "proc_flags": "execve rootcwd clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "sa1",
+      "proc_args": "/usr/lib/sysstat/sa1 1 1",
+      "proc_uid": 0,
+      "parent_bin": "9",
+      "proc_flags": "execve rootcwd"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "sadc",
+      "proc_args": "-F -L -S DISK 1 1 /var/log/sysstat",
+      "proc_uid": 0,
+      "parent_bin": "sa1",
+      "proc_flags": "execve"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "sadc",
+      "proc_args": "-F -L -S DISK 1 1 /var/log/sysstat",
+      "proc_uid": 0,
+      "parent_bin": "sa1",
+      "proc_flags": "execve"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "systemd",
+      "proc_args": "splash",
+      "proc_uid": 0,
+      "parent_bin": "systemd",
+      "proc_flags": "execve"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "sh",
+      "proc_args": "-c \"command -v debian-sa1 > /dev/null && debian-sa1 1 1\"",
+      "proc_uid": 0,
+      "parent_bin": "cron",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "debian-sa1",
+      "proc_args": "/usr/lib/sysstat/debian-sa1 1 1",
+      "proc_uid": 0,
+      "parent_bin": "sh",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "debian-sa1",
+      "proc_args": "/usr/lib/sysstat/debian-sa1 1 1",
+      "proc_uid": 0,
+      "parent_bin": "sh",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "sh",
+      "proc_args": "-c \"command -v debian-sa1 > /dev/null && debian-sa1 1 1\"",
+      "proc_uid": 0,
+      "parent_bin": "cron",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "cron",
+      "proc_args": "-f -P",
+      "proc_uid": 0,
+      "parent_bin": "cron",
+      "proc_flags": "execve"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "[kthreadd]",
+      "proc_args": "none",
+      "proc_uid": 0,
+      "parent_bin": "[kthreadd]",
+      "proc_flags": "execve"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "[kthreadd]",
+      "proc_args": "none",
+      "proc_uid": 0,
+      "parent_bin": "[kthreadd]",
+      "proc_flags": "execve"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "[kthreadd]",
+      "proc_args": "none",
+      "proc_uid": 0,
+      "parent_bin": "[kthreadd]",
+      "proc_flags": "execve"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "gjs",
+      "proc_args": "/usr/share/gnome-shell/extensions/ding@rastersoft.com/app/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com/app",
+      "proc_uid": 1000,
+      "parent_bin": "ding.js",
+      "proc_flags": "execve"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "9",
+      "proc_args": "--deserialize 36 --log-level info --log-target journal-or-kmsg",
+      "proc_uid": 0,
+      "parent_bin": "systemd",
+      "proc_flags": "execve rootcwd clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "gdm-session-worker",
+      "proc_args": "none",
+      "proc_uid": 0,
+      "parent_bin": "gdm-session-worker",
+      "proc_flags": "execve rootcwd clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "fprintd",
+      "proc_args": "none",
+      "proc_uid": 0,
+      "parent_bin": "9",
+      "proc_flags": "execve rootcwd"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "gdm-session-worker",
+      "proc_args": "none",
+      "proc_uid": 0,
+      "parent_bin": "gdm-session-worker",
+      "proc_flags": "execve"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "gdm-session-worker",
+      "proc_args": "none",
+      "proc_uid": 0,
+      "parent_bin": "gdm-session-worker",
+      "proc_flags": "execve rootcwd clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "systemd",
+      "proc_args": "splash",
+      "proc_uid": 0,
+      "parent_bin": "systemd",
+      "proc_flags": "execve"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "systemd",
+      "proc_args": "splash",
+      "proc_uid": 0,
+      "parent_bin": "systemd",
+      "proc_flags": "execve"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "ding.js",
+      "proc_args": "gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/app/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com/app",
+      "proc_uid": 1000,
+      "parent_bin": "gnome-shell",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "gjs",
+      "proc_args": "/usr/share/gnome-shell/extensions/ding@rastersoft.com/app/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com/app",
+      "proc_uid": 1000,
+      "parent_bin": "ding.js",
+      "proc_flags": "execve"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "nautilus",
+      "proc_args": "--version",
+      "proc_uid": 1000,
+      "parent_bin": "gjs",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "nautilus",
+      "proc_args": "--version",
+      "proc_uid": 1000,
+      "parent_bin": "gjs",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "Default",
+      "proc_args": "/etc/gdm3/PrimeOff/Default",
+      "proc_uid": 0,
+      "parent_bin": "gdm-session-worker",
+      "proc_flags": "execve rootcwd clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "Default",
+      "proc_args": "/etc/gdm3/PrimeOff/Default",
+      "proc_uid": 0,
+      "parent_bin": "gdm-session-worker",
+      "proc_flags": "execve rootcwd clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "sh",
+      "proc_args": "-c \"cd / && run-parts --report /etc/cron.hourly\"",
+      "proc_uid": 0,
+      "parent_bin": "cron",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "run-parts",
+      "proc_args": "--report /etc/cron.hourly",
+      "proc_uid": 0,
+      "parent_bin": "sh",
+      "proc_flags": "execve rootcwd clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "run-parts",
+      "proc_args": "--report /etc/cron.hourly",
+      "proc_uid": 0,
+      "parent_bin": "sh",
+      "proc_flags": "execve rootcwd clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "sh",
+      "proc_args": "-c \"cd / && run-parts --report /etc/cron.hourly\"",
+      "proc_uid": 0,
+      "parent_bin": "cron",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "cron",
+      "proc_args": "-f -P",
+      "proc_uid": 0,
+      "parent_bin": "cron",
+      "proc_flags": "execve"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "fprintd",
+      "proc_args": "none",
+      "proc_uid": 0,
+      "parent_bin": "9",
+      "proc_flags": "execve rootcwd"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "systemd",
+      "proc_args": "splash",
+      "proc_uid": 0,
+      "parent_bin": "systemd",
+      "proc_flags": "execve"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "systemd",
+      "proc_args": "splash",
+      "proc_uid": 0,
+      "parent_bin": "systemd",
+      "proc_flags": "execve"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "systemd",
+      "proc_args": "splash",
+      "proc_uid": 0,
+      "parent_bin": "systemd",
+      "proc_flags": "execve"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "9",
+      "proc_args": "--deserialize 35 --log-level info --log-target journal-or-kmsg",
+      "proc_uid": 0,
+      "parent_bin": "systemd",
+      "proc_flags": "execve rootcwd clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "sa1",
+      "proc_args": "/usr/lib/sysstat/sa1 1 1",
+      "proc_uid": 0,
+      "parent_bin": "9",
+      "proc_flags": "execve rootcwd"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "sadc",
+      "proc_args": "-F -L -S DISK 1 1 /var/log/sysstat",
+      "proc_uid": 0,
+      "parent_bin": "sa1",
+      "proc_flags": "execve"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "sadc",
+      "proc_args": "-F -L -S DISK 1 1 /var/log/sysstat",
+      "proc_uid": 0,
+      "parent_bin": "sa1",
+      "proc_flags": "execve"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "systemd",
+      "proc_args": "splash",
+      "proc_uid": 0,
+      "parent_bin": "systemd",
+      "proc_flags": "execve"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "gjs",
+      "proc_args": "/usr/share/gnome-shell/extensions/ding@rastersoft.com/app/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com/app",
+      "proc_uid": 1000,
+      "parent_bin": "ding.js",
+      "proc_flags": "execve"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "[kthreadd]",
+      "proc_args": "none",
+      "proc_uid": 0,
+      "parent_bin": "[kthreadd]",
+      "proc_flags": "execve"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "[kthreadd]",
+      "proc_args": "none",
+      "proc_uid": 0,
+      "parent_bin": "[kthreadd]",
+      "proc_flags": "execve"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "sh",
+      "proc_args": "-c \"command -v debian-sa1 > /dev/null && debian-sa1 1 1\"",
+      "proc_uid": 0,
+      "parent_bin": "cron",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "debian-sa1",
+      "proc_args": "/usr/lib/sysstat/debian-sa1 1 1",
+      "proc_uid": 0,
+      "parent_bin": "sh",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "debian-sa1",
+      "proc_args": "/usr/lib/sysstat/debian-sa1 1 1",
+      "proc_uid": 0,
+      "parent_bin": "sh",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "sh",
+      "proc_args": "-c \"command -v debian-sa1 > /dev/null && debian-sa1 1 1\"",
+      "proc_uid": 0,
+      "parent_bin": "cron",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "cron",
+      "proc_args": "-f -P",
+      "proc_uid": 0,
+      "parent_bin": "cron",
+      "proc_flags": "execve"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "python3",
+      "proc_args": "legit.py",
+      "proc_uid": 1000,
+      "parent_bin": "bash",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "[kthreadd]",
+      "proc_args": "none",
+      "proc_uid": 0,
+      "parent_bin": "[kthreadd]",
+      "proc_flags": "execve"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "9",
+      "proc_args": "--deserialize 36 --log-level info --log-target journal-or-kmsg",
+      "proc_uid": 0,
+      "parent_bin": "systemd",
+      "proc_flags": "execve rootcwd clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "gdm-session-worker",
+      "proc_args": "none",
+      "proc_uid": 0,
+      "parent_bin": "gdm-session-worker",
+      "proc_flags": "execve rootcwd clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "fprintd",
+      "proc_args": "none",
+      "proc_uid": 0,
+      "parent_bin": "9",
+      "proc_flags": "execve rootcwd"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "gdm-session-worker",
+      "proc_args": "none",
+      "proc_uid": 0,
+      "parent_bin": "gdm-session-worker",
+      "proc_flags": "execve"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "gdm-session-worker",
+      "proc_args": "none",
+      "proc_uid": 0,
+      "parent_bin": "gdm-session-worker",
+      "proc_flags": "execve rootcwd clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "systemd",
+      "proc_args": "splash",
+      "proc_uid": 0,
+      "parent_bin": "systemd",
+      "proc_flags": "execve"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "systemd",
+      "proc_args": "splash",
+      "proc_uid": 0,
+      "parent_bin": "systemd",
+      "proc_flags": "execve"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "ding.js",
+      "proc_args": "gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/app/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com/app",
+      "proc_uid": 1000,
+      "parent_bin": "gnome-shell",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "gjs",
+      "proc_args": "/usr/share/gnome-shell/extensions/ding@rastersoft.com/app/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com/app",
+      "proc_uid": 1000,
+      "parent_bin": "ding.js",
+      "proc_flags": "execve"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "nautilus",
+      "proc_args": "--version",
+      "proc_uid": 1000,
+      "parent_bin": "gjs",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "nautilus",
+      "proc_args": "--version",
+      "proc_uid": 1000,
+      "parent_bin": "gjs",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "Default",
+      "proc_args": "/etc/gdm3/PrimeOff/Default",
+      "proc_uid": 0,
+      "parent_bin": "gdm-session-worker",
+      "proc_flags": "execve rootcwd clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "Default",
+      "proc_args": "/etc/gdm3/PrimeOff/Default",
+      "proc_uid": 0,
+      "parent_bin": "gdm-session-worker",
+      "proc_flags": "execve rootcwd clone"
+    },
+    {
+      "event_type": 1,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    },
+    {
+      "event_type": 0,
+      "proc_bin": "tracker-extract-3",
+      "proc_args": "--socket-fd 3",
+      "proc_uid": 1000,
+      "parent_bin": "tracker-miner-fs-3",
+      "proc_flags": "execve clone"
+    }
+  ]
+}
